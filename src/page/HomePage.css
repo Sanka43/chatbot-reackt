@@ -1,0 +1,28 @@
+.home{
+    height: 700px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #e0e1ff, #ee876d, #5d9ed0);
+    flex-direction: column;
+}
+h1{
+    font-size: 64px;
+    color: #2c2c2c;
+
+}
+
+button{
+    height: 50px;
+    width: 250px;
+    background-color: #e0e1ff;
+    font-size: 24px;
+    color: #2c2c2c;
+    border-radius: 25px;
+}
+p{
+    text-align: center;
+    color: #2c2c2c;
+    font-size: 24px;
+}
